@@ -1,4 +1,4 @@
-#UNDER CONSTRUCTION
+#Development files for learning purpose to analyze and apply best Regression model to find sales forecast
 
 
 # Forecasting future sales using Machine Learning
